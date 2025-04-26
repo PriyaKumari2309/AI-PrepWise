@@ -50,3 +50,21 @@ npm run dev
 
 # 5. Visit
 http://localhost:3000
+```
+---
+🙋‍♂️ **Author**  
+    **Priya Kumari**
+
+
+[Github](https://github.com/PriyaKumari2309)  
+[LinkedIn](https://www.linkedin.com/in/priya-kumari9)
+
+---
+
+⭐ Support
+
+**If you like this project, please ⭐ the repo and share it!**
+
+---
+
+
